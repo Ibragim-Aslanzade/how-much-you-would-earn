@@ -1,7 +1,6 @@
 
 import './App.css';
 import React from 'react';
-import GetApi from './api';
 
 class App extends React.Component{
 
